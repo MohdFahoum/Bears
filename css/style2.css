@@ -1,0 +1,39 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: black;
+    text-align: center;
+    
+}
+
+h2{
+    font-style: italic;
+    color: darkred;
+    text-align: center;
+}
+
+div img{
+    height: 150px; width: 150px;
+    display: block; margin: auto;
+}
+p{
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style: inside;
+}
+li {
+    display: inline-block;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: peru;
+}
