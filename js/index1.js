@@ -1,14 +1,14 @@
 'use strict';
 
 function bearType() {
-  var bear = prompt("Please enter the bear name you want to ask about");
+  var bear = prompt("Please enter the bear name you want to ask about (russian or asian)");
 
   var bearType;
   var asian = 'asian';
   var russian = 'russian';
 
   while (bear !== 'asian' && bear !== 'russian') {
-    bear = prompt("Please enter the bear name you want to ask about");
+    bear = prompt("Please enter the bear name you want to ask about (russian or asian)");
   }
 
 
