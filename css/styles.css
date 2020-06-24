@@ -1,0 +1,14 @@
+.BgColor{
+color: red;
+text-decoration: initial;
+}
+.TextColorOrange{
+    color: orange;
+}
+.italic{
+    font-style: italic;
+}
+.LinkColor{
+    text-decoration: none;
+    text-align: initial;
+}
